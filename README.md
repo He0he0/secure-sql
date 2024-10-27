@@ -1,2 +1,2 @@
 # secure-sql
-Secure sql database on NPM
+Secure sql database on NPM for software developers
